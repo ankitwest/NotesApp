@@ -20,8 +20,8 @@ class MainActivity : AppCompatActivity(), NoteClickInterface {
         setContentView(R.layout.activity_main)
         notesRV = findViewById(R.id.idRV)
         addFAB = findViewById(R.id.idFAB)
-
-
+    //hello
+    // this is me
 
     }
 
